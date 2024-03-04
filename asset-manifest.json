@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/%7Bfrc-crescendo-scouting%7D/static/css/main.b4a0b8d0.css",
-    "main.js": "/%7Bfrc-crescendo-scouting%7D/static/js/main.bd53fd63.js",
-    "index.html": "/%7Bfrc-crescendo-scouting%7D/index.html",
-    "main.b4a0b8d0.css.map": "/%7Bfrc-crescendo-scouting%7D/static/css/main.b4a0b8d0.css.map",
-    "main.bd53fd63.js.map": "/%7Bfrc-crescendo-scouting%7D/static/js/main.bd53fd63.js.map"
+    "main.css": "/frc-crescendo-scouting/static/css/main.b4a0b8d0.css",
+    "main.js": "/frc-crescendo-scouting/static/js/main.bd53fd63.js",
+    "index.html": "/frc-crescendo-scouting/index.html",
+    "main.b4a0b8d0.css.map": "/frc-crescendo-scouting/static/css/main.b4a0b8d0.css.map",
+    "main.bd53fd63.js.map": "/frc-crescendo-scouting/static/js/main.bd53fd63.js.map"
   },
   "entrypoints": [
     "static/css/main.b4a0b8d0.css",
