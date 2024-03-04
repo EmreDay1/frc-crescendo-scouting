@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7Bfrc-crescendo-scouting%7D/static/css/main.b4a0b8d0.css",
+    "main.js": "/%7Bfrc-crescendo-scouting%7D/static/js/main.bd53fd63.js",
+    "index.html": "/%7Bfrc-crescendo-scouting%7D/index.html",
+    "main.b4a0b8d0.css.map": "/%7Bfrc-crescendo-scouting%7D/static/css/main.b4a0b8d0.css.map",
+    "main.bd53fd63.js.map": "/%7Bfrc-crescendo-scouting%7D/static/js/main.bd53fd63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4a0b8d0.css",
+    "static/js/main.bd53fd63.js"
+  ]
+}
