@@ -1,0 +1,130 @@
+/* EndgameForm.css */
+.green-zone-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #c46d0a; /* Dark green background for full screen */
+  }
+  
+  .green-zone-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    width: 90%;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #1cbbdb; /* Light green for contrast */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+  }
+  
+  .form-heading {
+    font-size: 2em;
+    color: white;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .countdown-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .countdown-timer {
+    font-size: 2em;
+    color: white;
+    padding: 5px 10px;
+    margin: 0 15px;
+    background-color: #7e8706;
+    border-radius: 4px;
+  }
+
+.timer-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.timer {
+  font-size: 1em; 
+  padding: 5px 10px;
+  background-color: #ddd;
+  border-radius: 4px;
+}
+  
+  .status-options {
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  .status-radio {
+    margin-right: 10px;
+  }
+  
+  .note-checkbox-section {
+    margin-bottom: 20px;
+  }
+  
+  .note-checkbox-label {
+    font-size: 1em;
+    color: white;
+  }
+  
+  .navigation-controls {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .control-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #7e8706;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 0 5px;
+    text-transform: uppercase;
+  }
+  
+  .control-button:hover {
+    background-color: #7e8706;
+  }
+  
+
+  @media (max-width: 768px) {
+    .green-zone-form {
+      width: 95%;
+    }
+  
+    .countdown-section {
+      flex-direction: column;
+    }
+  
+    .navigation-controls {
+      flex-direction: column;
+    }
+  
+    .control-button {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+
+    .selection-group {
+      display: flex;
+      flex-direction: column; 
+      margin-bottom: 20px;
+    }
+
+    .selection-label {
+      margin-bottom: 5px;
+    }
+
+  }
+  
+
+  
